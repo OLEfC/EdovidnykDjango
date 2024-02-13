@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'edovidnyk',
-        'USER': 'root',
-        'PASSWORD': '9415',
-        'HOST': 'localhost',  # Адреса сервера баз даних (зазвичай localhost)
+        'USER': 'edovidnyk',
+        'PASSWORD': '12345678Qwerty',
+        'HOST': 'edovidnyk.mysql.database.azure.com',  # Адреса сервера баз даних (зазвичай localhost)
         'PORT': '3306',       # Порт сервера баз даних (зазвичай 3306)
     }
 }
